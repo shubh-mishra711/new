@@ -1,6 +1,5 @@
 # CurrencyConvertor /Weather App
 
-Made by Shubh Mishra.
 
 ## Available Scripts
 
