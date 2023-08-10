@@ -38,7 +38,7 @@ pipeline {
 
     stage('Run Docker Container'){
       steps{
-        sh ("docker run -d --name weatherapp1 -p 5000:3000 dockerImage shubhmishra/weather-jenkns-app")
+        sh ("docker run -d --name weatherapp1 -p 5000:3000 shubhmishra/weather-jenkns-app")
       }
     }
 
